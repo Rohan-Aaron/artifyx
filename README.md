@@ -1,0 +1,1 @@
+Artifyx, an open-source web application designed to connect clients with editors and designers. The platform facilitates hiring professionals for video editing, photo editing, logo design, cartoons & animation, and flyer design through a token-based hiring system.
